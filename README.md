@@ -1,29 +1,14 @@
 <h1 align="center">Hi 👋, I'm Kushvanth</h1>
+- 💡 Building projects in ML, Data Science, and AI applications
+- 🌱 Exploring Open Source and Model Deployment
+
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-- Python
-- Java
-- SQL
-- C
-
-### AI/ML & Data Science
-- Machine Learning
-- Deep Learning
-- NLP
-- Pandas
-- NumPy
-- Scikit-learn
-- TensorFlow
-- Matplotlib
-
-### Web & Tools
-- Git & GitHub
-- Streamlit
-- VS Code
-- Jupyter Notebook
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c,sql,tensorflow,sklearn,pandas,numpy,git,github,streamlit,vscode" />
+</p>
 
 ---
 
@@ -48,16 +33,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kushvanth25&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kushvanth25&theme=tokyonight" alt="streak" />
-</p>
-
 ---
 
 ## 🌐 Connect With Me
@@ -66,6 +41,3 @@
 - Email: kushvanthchikkala@gmail.com
 
 ---
-
-## ⚡ Fun Fact
-I enjoy building AI projects that solve real-world problems and continuously improving my problem-solving skills.
