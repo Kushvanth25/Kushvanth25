@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kushvanth
 
-# 🚀 B.Tech IT Student | AIML Enthusiast
+### 🚀 B.Tech IT Student | AIML Enthusiast
 
 🎓 Final-year B.Tech Information Technology student at **Vishnu Institute of Technology** with a **CGPA of 8.92**.
 
@@ -8,7 +8,7 @@ I enjoy building practical machine learning applications and improving my proble
 
 ---
 
-# 🚀 What I'm Working On
+### 🚀 What I'm Working On
 
 - Building ML-powered web applications using Python and Streamlit
 - Improving problem-solving skills through LeetCode
@@ -16,35 +16,35 @@ I enjoy building practical machine learning applications and improving my proble
 
 ---
 
-# 🚀 Tech Stack
+### 🚀 Tech Stack
 
-## 👨‍💻 Languages
+#### 👨‍💻 Languages
 Python • SQL
 
-## 🤖 AI/ML
+#### 🤖 AI/ML
 Machine Learning • Deep Learning • NLP • Generative AI
 
-## 📊 Data Science
+#### 📊 Data Science
 Pandas • NumPy • Matplotlib • Seaborn • EDA • Feature Engineering • Data Preprocessing
 
-## 🌐 Deployment & Tools
+#### 🌐 Deployment & Tools
 Git • Github • Streamlit • Jupyter Notebook
 
 ---
 
-# 📌 Featured Projects
+### 📌 Featured Projects
 
-## 💳 CredWise AI — Loan Approval Prediction System
+#### 💳 CredWise AI — Loan Approval Prediction System
 
 Machine learning web application that predicts loan approval status using customer and financial information.
 
-### ✨ Features
+##### ✨ Features
 - Data preprocessing and feature engineering
 - Classification model training and evaluation
 - Performance analysis using Accuracy, Precision, Recall, and F1-Score
 - Interactive Streamlit web interface for real-time predictions
 
-### 🛠️ Tech Stack
+##### 🛠️ Tech Stack
 Python • Scikit-Learn • Pandas • Streamlit
 
 🔗 **Live Demo:**  
@@ -52,17 +52,17 @@ https://credwise-ai.streamlit.app/
 
 ---
 
-## 🛒 SmartCart — Customer Segmentation System
+#### 🛒 SmartCart — Customer Segmentation System
 
 Customer segmentation project using K-Means clustering to analyze customer demographics and purchasing behavior.
 
-### ✨ Features
+##### ✨ Features
 - Data cleaning, encoding, and feature scaling
 - Customer clustering using K-Means
 - Optimal cluster analysis using Elbow Method and Silhouette Score
 - Customer insights for marketing and retention strategies
 
-### 🛠️ Tech Stack
+##### 🛠️ Tech Stack
 Python • Scikit-Learn • Pandas • Streamlit
 
 🔗 **Live Demo:**  
@@ -70,7 +70,7 @@ https://smart-cart-ai.streamlit.app/
 
 ---
 
-# 🌐 Connect With Me
+### 🌐 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/kushvanthchikkala
 - 💻 GitHub: https://github.com/Kushvanth25
