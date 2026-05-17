@@ -1,82 +1,63 @@
-<h1 align="center">Hi 👋, I'm Kushvanth</h1>
-<h3 align="center">B.Tech IT Student | Machine Learning & AI Projects</h3>
+Hi 👋, I'm Kushvanth
+B.Tech IT Student | Machine Learning & AI Projects
 
----
+🎓 Final-year B.Tech Information Technology student at Vishnu Institute of Technology with a CGPA of 8.92.
 
-## 🚀 About Me
+I enjoy building practical machine learning applications and improving my problem-solving skills through projects and DSA. Currently focused on machine learning, data analysis, deployment, and software development fundamentals.
 
-- 🎓 Final-year B.Tech IT student at Vishnu Institute of Technology
-- 🤖 Building machine learning and AI applications using Python
-- 📚 Currently improving DSA, deep learning, and problem-solving skills
-- 🛠 Interested in applied ML, computer vision, and intelligent systems
-- 🚀 Exploring deployment and real-world ML workflows
+🚀 What I'm Working On
+Building ML-powered web applications using Python and Streamlit
+Improving problem-solving skills through LeetCode
+Learning deeper concepts in machine learning and software engineering
+🚀 Tech Stack
 
----
+👨‍💻 Languages
+Python • SQL
 
-## 🛠 Tech Stack
+🤖 AI/ML
+Machine Learning • Deep Learning • NLP • Scikit-Learn • Clustering • Classification
 
-### Languages
-- Python
-- SQL
+📊 Data Science
+Pandas • NumPy • Matplotlib • Seaborn • EDA • Feature Engineering • Data Preprocessing
 
-### Machine Learning & Data Science
-- Scikit-Learn
-- Pandas
-- NumPy
-- Matplotlib
+🌐 Deployment & Tools
+Streamlit • Git • GitHub • Jupyter Notebook
 
-### Deep Learning & Computer Vision
-- TensorFlow
-- OpenCV
+📚 Concepts
+Regression • K-Means • Neural Networks • Attention Mechanism • Model Evaluation
 
-### Tools & Platforms
-- Streamlit
-- Jupyter Notebook
-- Git & GitHub
+📌 Featured Projects
+💳 CredWise AI — Loan Approval Prediction System
 
----
+Machine learning web application that predicts loan approval status using customer and financial information.
 
-# 📌 Projects
+Features
+Data preprocessing and feature engineering
+Classification model training and evaluation
+Performance analysis using Accuracy, Precision, Recall, and F1-Score
+Interactive Streamlit web interface for real-time predictions
+Tech Stack
 
-## 💳 CredWise AI — Loan Approval Prediction
+Python • Scikit-Learn • Pandas • Streamlit
 
-Machine learning web application for predicting loan approval status using customer and financial data.
+🔗 Live Demo: [https://credwise-ai.streamlit.app/]
 
-### Features
-- Data preprocessing and feature engineering
-- Model training and evaluation using classification algorithms
-- Performance evaluation using Accuracy, Precision, Recall, and F1-Score
-- Interactive Streamlit web interface for real-time predictions
-
-### Tech Stack
-Python • Scikit-Learn • Streamlit • Pandas
-
----
-
-## 🛒 SmartCart — Customer Segmentation System
+🛒 SmartCart — Customer Segmentation System
 
 Customer segmentation project using K-Means clustering to analyze customer demographics and purchasing behavior.
 
-### Features
-- Data cleaning, encoding, and feature scaling
-- Optimal cluster selection using Elbow Method and Silhouette Score
-- Customer segmentation for marketing and retention strategies
-- Interactive data visualization and analysis
+Features
+Data cleaning, encoding, and feature scaling
+Customer clustering using K-Means
+Optimal cluster analysis using Elbow Method and Silhouette Score
+Customer insights for marketing and retention strategies
+Tech Stack
 
-### Tech Stack
-Python • Scikit-Learn • K-Means Clustering • Streamlit
+Python • Scikit-Learn • Pandas • Streamlit
 
----
+🔗 Live Demo: [https://smart-cart-ai.streamlit.app/]
 
-## 📜 Certifications
-
-- Introduction to Generative AI Studio — Simplilearn SkillUp & Google Cloud
-- Artificial Intelligence Program — SkillDzire
-
----
-
-## 🌐 Connect With Me
-
-- LinkedIn: www.linkedin.com/in/kushvanthchikkala
-- GitHub: github.com/Kushvanth25
-- Email: kushvanthchikkala@gmail.com
+🌐 Connect With Me
+LinkedIn: www.linkedin.com/in/kushvanthchikkala
+GitHub: github.com/Kushvanth25
+Email: kushvanthchikkala@gmail.com
