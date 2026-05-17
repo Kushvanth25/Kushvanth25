@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kushvanth
 
-## 🚀 B.Tech IT Student | Machine Learning & AI Projects
+# 🚀 B.Tech IT Student | AIML Enthusiast
 
 🎓 Final-year B.Tech Information Technology student at **Vishnu Institute of Technology** with a **CGPA of 8.92**.
 
