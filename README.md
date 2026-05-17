@@ -68,21 +68,6 @@ Python • Scikit-Learn • K-Means Clustering • Streamlit
 
 ---
 
-## ✋ Indian Sign Language Detection
-
-Computer vision project for recognizing Indian Sign Language hand gestures using deep learning techniques.
-
-### Features
-- Real-time gesture detection using webcam input
-- Hand gesture classification using TensorFlow and OpenCV
-- Image preprocessing and prediction pipeline
-- Focused on sign alphabet recognition
-
-### Tech Stack
-Python • TensorFlow • OpenCV
-
----
-
 ## 📜 Certifications
 
 - Introduction to Generative AI Studio — Simplilearn SkillUp & Google Cloud
