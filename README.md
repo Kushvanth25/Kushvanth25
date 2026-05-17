@@ -1,43 +1,78 @@
 <h1 align="center">Hi 👋, I'm Kushvanth</h1>
-- 💡 Building projects in ML, Data Science, and AI applications
-- 🌱 Exploring Open Source and Model Deployment
+<h3 align="center">Aspiring AI/ML Engineer from India</h3>
+
+---
+
+## 🚀 About Me
+- 🎓 B.Tech IT Student at Vishnu Institute of Technology
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 📚 Learning DSA, Deep Learning, and NLP
+- 💡 Building ML and AI-powered applications
+- 🚀 Exploring deployment and real-world AI solutions
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,sql,tensorflow,sklearn,pandas,numpy,git,github,streamlit,vscode" />
-</p>
+### Languages
+Python • SQL
+
+### Machine Learning
+Regression • Classification • Clustering • Dimensionality Reduction
+
+### Deep Learning
+Neural Networks • Backpropagation • Optimizers • Activation Functions
+
+### NLP
+Tokenization • Word Embeddings • Attention Mechanism • Fine-Tuning
+
+### Libraries & Tools
+NumPy • Pandas • Matplotlib • Scikit-Learn • Streamlit • Jupyter Notebook • Git & GitHub
 
 ---
 
 ## 📌 Featured Projects
 
-### 🛒 SmartCart Customer Segmentation
-- ML-based customer segmentation system using K-Means clustering
-- Identified customer groups and generated business insights for marketing strategies
-- Includes data visualization, clustering analysis, and Streamlit deployment
-- Tech Used: Python, Pandas, Scikit-learn, Matplotlib, Streamlit
+### 💳 CredWise AI – Loan Approval Prediction System
+- Developed and deployed a Machine Learning web application for loan approval prediction using customer data
+- Performed data preprocessing and feature engineering to improve model performance and prediction accuracy
+- Built and evaluated classification models using Accuracy, Precision, Recall, and F1-Score metrics
+- Designed an interactive Streamlit interface for real-time loan prediction
 
-### 💳 CredWise – AI Powered Credit Risk Analysis
-- AI/ML project focused on predicting credit risk and customer financial behavior
-- Built models to analyze financial data and classify risk levels
-- Includes data preprocessing, model training, and performance evaluation
-- Tech Used: Python, Pandas, NumPy, Scikit-learn
-
-### ✋ Indian Sign Language Detection
-- AI-based sign language recognition system
-- Uses Computer Vision and Deep Learning concepts
-- Built with Python and TensorFlow
+**Tech Stack:** Python • Scikit-Learn • Streamlit • Feature Engineering
 
 ---
+
+### 🛒 SmartCart – Customer Segmentation System
+- Built a customer segmentation system using K-Means clustering on customer demographic and purchase behavior data
+- Performed preprocessing, feature engineering, encoding, and scaling to improve clustering performance
+- Used Elbow Method and Silhouette Score to determine optimal clusters
+- Identified customer segments for personalized marketing and retention strategies
+
+**Tech Stack:** K-Means Clustering • Scikit-Learn • EDA • Streamlit
+
+---
+
+### ✋ Indian Sign Language Detection
+- Developed an AI-based sign language recognition system
+- Applied Computer Vision and Deep Learning concepts for gesture recognition
+- Built using Python and TensorFlow
+
+**Tech Stack:** Python • TensorFlow • OpenCV
+
+---
+
+## 📜 Certifications
+
+### Introduction to Generative AI Studio
+- Simplilearn SkillUp & Google Cloud
+
+### Artificial Intelligence Program
+- SkillDzire
 
 ---
 
 ## 🌐 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/kushvanthchikkala
-- GitHub: https://github.com/Kushvanth25
+- LinkedIn: www.linkedin.com/in/kushvanthchikkala
+- GitHub: github.com/Kushvanth25
 - Email: kushvanthchikkala@gmail.com
-
----
