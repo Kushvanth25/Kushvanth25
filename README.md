@@ -22,16 +22,13 @@ I enjoy building practical machine learning applications and improving my proble
 Python • SQL
 
 ## 🤖 AI/ML
-Machine Learning • Deep Learning • NLP • Scikit-Learn • Clustering • Classification
+Machine Learning • Deep Learning • NLP • Generative AI
 
 ## 📊 Data Science
 Pandas • NumPy • Matplotlib • Seaborn • EDA • Feature Engineering • Data Preprocessing
 
 ## 🌐 Deployment & Tools
-Streamlit • Git • GitHub • Jupyter Notebook
-
-## 📚 Concepts
-Regression • K-Means • Neural Networks • Attention Mechanism • Model Evaluation
+Git • Github • Streamlit • Jupyter Notebook
 
 ---
 
